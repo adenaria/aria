@@ -1,0 +1,15 @@
+buat sistem informasi sekolah terdiri dari 4halaman web yaitu
+1.halaman utama/menu
+  merpakan halaman utama yang berisikan menu dengan link
+-informasi sekolah
+-informasi jurusan sekola
+-informasi sarana prasarana sekolah
+2.informasi sekolah
+  berisikan tentang informasi sekolah meliputinama sekolah alamat sekolah dan informasi informasi lainnya yang mengenai sekolah
+3.jursan sekolah
+  berisikam tentang jrsan jrsan yang ada di sekolah
+4.informasi sarana dan prasarana sekolah
+  berisikan tentang sarana dan prasarana yang ada di sekolah
+
+catatan:
+pada setiap halaman web dilengkapi dengan menu home, next dan prev
