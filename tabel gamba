@@ -1,0 +1,25 @@
+<head>
+
+<title>Form Website</title>
+
+</head>
+
+<body> <table width="50%" border="1" cellspacing="0" cellpadding="0" aligne"center">
+
+<th align="center">Gambar</th>
+
+<th align="center">Nama Kota</th> <th align="center">Deskripsi Kotac/th>
+
+</tr>
+
+<td align="center"><img src="Bandung.jpg" width="200" height="150" border="0"></td>
+
+<td align="center">Bandung</td>
+
+<td align="center">kk</td>
+
+<td align="center"><img src="Jakarta.jpg" width="200" height="150" border="0"></td>
+
+<td align="center">Jakarta</td>
+
+<td align="center">kk</td>
